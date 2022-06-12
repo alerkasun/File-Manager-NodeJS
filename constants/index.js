@@ -8,5 +8,3 @@ export const FILE_EXISTS = 'File already exists';
 export const INVALID_INPUT = 'Invalid input';
 export const FILE_COMPRESSED = 'File compressed';
 export const FILE_DECOMPRESSED = 'File decompressed';
-
-

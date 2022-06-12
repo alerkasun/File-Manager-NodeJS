@@ -1,5 +1,5 @@
-import path from 'path'
-import { existsSync, rm } from 'fs'
+import path from 'path';
+import { existsSync, rm } from 'fs';
 import { OPERATION_FAILED } from '../constants/index.js';
 
 export async function remove(pathFile) {
