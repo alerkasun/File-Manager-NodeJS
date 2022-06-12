@@ -107,4 +107,3 @@ List of operations and their syntax:
     ```bash
     decompress path_to_file path_to_destination
     ```
-    
